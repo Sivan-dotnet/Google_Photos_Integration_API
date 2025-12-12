@@ -1,0 +1,12 @@
+bin/
+obj/
+.vs/
+*.user
+*.suo
+*.log
+.git
+.gitignore
+.vscode/
+node_modules/
+*.zip
+*.tar
